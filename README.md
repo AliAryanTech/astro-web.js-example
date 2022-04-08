@@ -13,11 +13,11 @@ example :
 
 thank you for using astro-web.js
 
-main - https://www.npmjs.com/package/astro-web.js
+
 
 
 ```
+## Main
 
-
-
+Main - https://www.npmjs.com/package/astro-web.js
 
